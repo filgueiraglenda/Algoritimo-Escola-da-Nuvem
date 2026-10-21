@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Olá! Somos a Crislayne, a Eduarda e a Glenda.
+# 👋 Olá! Somos Crislayne, Eduarda e Glenda.
 
 ## 👩‍💻 Sobre Nós
 Atualmente a estudar **Lógica de Programação** e **Git/GitHub**.
